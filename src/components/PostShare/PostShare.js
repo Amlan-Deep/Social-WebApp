@@ -40,9 +40,9 @@ const PostShare = () => {
             <UilLocationPoint />
             Location
           </div>{" "}
-          <div className="option" style={{ color: "var(--schedule)" }}>
+          <div className="option" style={{ color: "var(--shedule)" }}>
             <UilSchedule />
-            Schedule
+            Shedule
           </div>
           <button className="button ps-button">Share</button>
           <div style={{ display: "none" }}>
