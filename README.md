@@ -4,12 +4,19 @@ This repository contains the source code for a Social WebApp, a web application 
 
 ## Features
 User Registration and Authentication: Users can create accounts and log in securely to the Social WebApp.
+
 User Profiles: Each user has a profile page where they can provide information about themselves, such as a profile picture, bio, and other details.
+
 Post Creation and Sharing: Users can create posts and share them with their friends or the public. Posts can include text, images, or videos.
+
 Like and Comment System: Users can like posts and leave comments on them, enabling interaction and engagement among users.
+
 Friends and Followers: Users can connect with other users by sending friend requests and following each other's profiles.
+
 Notifications: Users receive notifications for activities related to their posts, comments, and friend requests.
+
 Search Functionality: Users can search for other users, posts, or specific content within the Social WebApp.
+
 Installation
 To set up the Social WebApp locally, follow these steps:
 
